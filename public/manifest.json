@@ -1,0 +1,17 @@
+{
+  "name": "TSD et Fils - Plomberie & Sanitaire",
+  "short_name": "TSD & Fils",
+  "description": "Plomberie professionnelle, installation sanitaire et chauffe-eau",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0891b2",
+  "theme_color": "#0891b2",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D4A6E"/>
+      <stop offset="100%" stop-color="#0A3D5C"/>
+    </linearGradient>
+    <linearGradient id="drop" x1="32" y1="8" x2="32" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <path d="M32 10C32 10 43 25 43 32C43 38 38 42 32 42C26 42 21 38 21 32C21 25 32 10 32 10Z" fill="url(#drop)"/>
+  <ellipse cx="28" cy="26" rx="4" ry="2.5" fill="white" opacity="0.45" transform="rotate(-30 28 26)"/>
+  <text x="32" y="57" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="800" fill="white" letter-spacing="1.5">TSD</text>
+</svg>
